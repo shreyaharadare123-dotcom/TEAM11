@@ -1,0 +1,20 @@
+Create a simple and clear flowchart for a College Event Participant Registration System.
+
+The flowchart should include:
+- Start and End points
+- Input participant details (Name, ID, Contact)
+- Display available events
+- Event selection process
+- Check event capacity (Decision box)
+- If capacity available → Confirm registration
+- If capacity full → Show "Event Full" message
+- Store registration details
+- Display participant status (Registered / Waitlisted)
+
+Use standard flowchart symbols:
+- Oval for Start/End
+- Parallelogram for Input/Output
+- Rectangle for Process
+- Diamond for Decision
+
+Make the flow logical, neat, and easy to understand.

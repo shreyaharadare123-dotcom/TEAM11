@@ -1,0 +1,30 @@
+Create a clean and well-structured ER Diagram for a College Event Participant Registration System.
+
+Include the following entities:
+
+1. Participant
+   - Participant_ID (Primary Key)
+   - Name
+   - Contact
+
+2. Event
+   - Event_ID (Primary Key)
+   - Event_Name
+   - Date
+   - Capacity
+
+3. Registration
+   - Registration_ID (Primary Key)
+   - Participant_ID (Foreign Key)
+   - Event_ID (Foreign Key)
+   - Status (Registered / Waitlisted)
+
+Relationships:
+- One Participant can register for multiple Events
+- One Event can have multiple Participants
+- Registration acts as a linking entity (Many-to-Many relationship)
+
+Additional Requirements:
+- Clearly show primary keys and foreign keys
+- Use proper ER diagram notation (rectangles, diamonds, ovals)
+- Maintain a neat and readable structure

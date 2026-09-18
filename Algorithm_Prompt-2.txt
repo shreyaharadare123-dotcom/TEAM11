@@ -1,0 +1,19 @@
+Create a simple step-by-step algorithm for a College Event Participant Registration System.
+
+The algorithm should include:
+1. Start
+2. Input participant details (Name, ID, Contact)
+3. Display list of available events
+4. Participant selects an event
+5. Check event capacity
+6. If capacity > 0:
+      a. Register participant
+      b. Decrease available capacity
+      c. Set status = "Registered"
+7. Else:
+      a. Set status = "Waitlisted"
+8. Store registration details
+9. Display registration status
+10. End
+
+Ensure the steps are clear, numbered, and easy to follow.
